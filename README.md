@@ -11,7 +11,7 @@ This project is a demo Flutter application created for a YouTube video tutorial 
 
 ## YouTube Video
 
-[Watch the tutorial here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch the tutorial here](https://youtu.be/KuqcoWL6MUw)
 
 ## Getting Started
 
